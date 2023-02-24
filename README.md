@@ -1,6 +1,6 @@
 # PID: motion control of a particle
 
-## About the project
+## About this project
 PID implementation to control particle trajectories.
 
 Algorithm: [Twiddle](https://martin-thoma.com/twiddle/)
