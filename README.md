@@ -1,6 +1,8 @@
 # PID: motion control of a particle
 
 ## About this project
+Control Systems Engineering (UniPG): final project.
+
 PID implementation to control particle trajectories.
 
 Algorithm: [Twiddle](https://martin-thoma.com/twiddle/)
