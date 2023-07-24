@@ -5,7 +5,7 @@ Control Systems Engineering (UniPG): final project.
 
 PID implementation to control particle trajectories.
 
-Algorithm: [Twiddle](https://martin-thoma.com/twiddle/)
+Algorithm: [Twiddle](https://martin-thoma.com/twiddle/).
 
 ## Project structure
 * src: python source code; main: particle_trajectory.py;
